@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # ex_system_ui_overlay_style
 
 A new Flutter project.
